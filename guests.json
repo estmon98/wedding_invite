@@ -1,0 +1,92 @@
+{
+  "juancarlos": {
+    "names": "Juan Carlos Pérez & Laura Gómez",
+    "greeting": "Queridos Juan Carlos y Laura",
+    "type": "double",
+    "seats": 2
+  },
+  "andrea": {
+    "names": "Andrea Ríos",
+    "greeting": "Querida Andrea",
+    "type": "single",
+    "seats": 1
+  },
+  "familia_martinez": {
+    "names": "Familia Martínez Herrera",
+    "greeting": "Querida Familia Martínez",
+    "type": "double",
+    "seats": 4
+  },
+  "carlos": {
+    "names": "Carlos Andrés Duque & Valentina Soto",
+    "greeting": "Queridos Carlos y Valentina",
+    "type": "double",
+    "seats": 2
+  },
+  "mariana": {
+    "names": "Mariana Restrepo",
+    "greeting": "Querida Mariana",
+    "type": "single",
+    "seats": 1
+  },
+  "familia_lopez": {
+    "names": "Familia López Mejía",
+    "greeting": "Querida Familia López",
+    "type": "double",
+    "seats": 5
+  },
+  "santiago": {
+    "names": "Santiago Ospina & Camila Ruiz",
+    "greeting": "Queridos Santiago y Camila",
+    "type": "double",
+    "seats": 2
+  },
+  "daniela": {
+    "names": "Daniela Carvajal",
+    "greeting": "Querida Daniela",
+    "type": "single",
+    "seats": 1
+  },
+  "pablo": {
+    "names": "Pablo Hernández & Isabella Muñoz",
+    "greeting": "Queridos Pablo e Isabella",
+    "type": "double",
+    "seats": 2
+  },
+  "lucia": {
+    "names": "Lucía Fernanda Zapata",
+    "greeting": "Querida Lucía",
+    "type": "single",
+    "seats": 1
+  },
+  "familia_giraldo": {
+    "names": "Familia Giraldo Vélez",
+    "greeting": "Querida Familia Giraldo",
+    "type": "double",
+    "seats": 4
+  },
+  "miguel": {
+    "names": "Miguel Ángel Torres & Sofía Ramírez",
+    "greeting": "Queridos Miguel y Sofía",
+    "type": "double",
+    "seats": 2
+  },
+  "catalina": {
+    "names": "Catalina Álvarez",
+    "greeting": "Querida Catalina",
+    "type": "single",
+    "seats": 1
+  },
+  "familia_arango": {
+    "names": "Familia Arango Salazar",
+    "greeting": "Querida Familia Arango",
+    "type": "double",
+    "seats": 6
+  },
+  "felipe": {
+    "names": "Felipe Ochoa & Natalia Castaño",
+    "greeting": "Queridos Felipe y Natalia",
+    "type": "double",
+    "seats": 2
+  }
+}
